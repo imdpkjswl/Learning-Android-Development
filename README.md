@@ -1,5 +1,6 @@
 # Learning-Android-Development
 
+[![HitCount](http://hits.dwyl.com/deepakjaiswal2018/Learning-Android-Development.svg)](http://hits.dwyl.com/deepakjaiswal2018/Learning-Android-Development)
 
 ## Tools & Tech Used:
 ```
