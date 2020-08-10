@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="this_is_the_first_text">This is the First Text</string>
+    <string name="this_is_the_second_text">This is the Second Text</string>
+    <string name="this_is_the_third_text">This is the Third Text</string>
+    <string name="support">For any kind of help, follow https://github.com/deepakjaiswal2018 and don\'t forget to fire mail to deepakjaiswal1950@gmail.com</string>
+</resources>
