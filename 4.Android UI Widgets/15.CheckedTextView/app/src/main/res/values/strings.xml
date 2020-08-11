@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">15.CheckedTextView</string>
+    <string name="checked_textview">Checked TextView</string>
+</resources>
