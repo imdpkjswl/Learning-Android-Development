@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3.Passing Value from One Activity to Another Activity</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="go_to_first_activity">Go to First Activity</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
