@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">19.ScrollView</string>
+    <string name="horizontal_scrollview_example">Horizontal ScrollView example</string>
+    <string name="vertical_scrollview_example">Vertical ScrollView example</string>
+</resources>
