@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1.SimpleClock</string>
+    <string name="analogclock">AnalogClock</string>
+    <string name="digitalclock">DigitalClock</string>
+    <string name="textclock">TextClock</string>
+    <string name="developed_by_deepak_jaiswal">Made with amor[.es] by Deepak Jaiswal</string>
+</resources>
