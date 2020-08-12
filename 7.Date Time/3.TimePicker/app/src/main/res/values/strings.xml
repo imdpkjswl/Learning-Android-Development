@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">3.TimePicker</string>
+    <string name="simple_time_picker">Simple Time Picker</string>
+    <string name="time_picker_with_spinner_mode">Time Picker with Spinner Mode</string>
+</resources>
