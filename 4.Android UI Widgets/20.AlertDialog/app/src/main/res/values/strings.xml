@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20.AlertDialog</string>
+    <string name="txtView">Click button to show dialogbox</string>
+    <string name="show">Show</string>
+</resources>
