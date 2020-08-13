@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ListView
+        android:id="@+id/listViewdemo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:listSelector="#03A9F4"
+        android:dividerHeight="1dp"
+        android:divider="#4CAF50"/>
+
+
+</LinearLayout>
