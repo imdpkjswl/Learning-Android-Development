@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="80dp"
+            android:id="@+id/imganim"
+            android:src="@color/colorPrimaryDark"/>
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnup"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:text="MoveUp"
+            android:textAllCaps="false"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btndown"
+            android:layout_weight="1"
+            android:text="MoveDown"
+            android:textAllCaps="false"
+            android:layout_margin="20dp"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnright"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:text="MoveRight"
+            android:textAllCaps="false"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnleft"
+            android:layout_weight="1"
+            android:text="MoveLeft"
+            android:textAllCaps="false"
+            android:layout_margin="20dp"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
