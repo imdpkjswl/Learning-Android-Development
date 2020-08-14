@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <Button android:text="Capture Video - Play also"
+        android:id="@+id/btn1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </Button>
+    <Button android:text="Capture Video without Data - Only Store"
+        android:id="@+id/btn2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </Button>
+    <Button android:text="Play Video"
+        android:id="@+id/btn3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </Button>
+    <VideoView android:id="@+id/video"
+        android:layout_margin="15dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </VideoView>
+
+</LinearLayout>
