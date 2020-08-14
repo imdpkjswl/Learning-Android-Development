@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Take a fragment in our activity -->
+    <fragment
+        android:id="@+id/test_fragment"
+        class="com.iamdj.a1fragmentcycle.LifeCycleFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_test"/>
+
+</RelativeLayout>
