@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btnRing"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="150dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="5dp"
+        android:text="Ring Mode"
+        android:textColor="@color/colorWhite" />
+    <Button
+        android:id="@+id/btnSilent"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="5dp"
+        android:text="Silent Mode"
+        android:textColor="@color/colorWhite" />
+    <Button
+        android:id="@+id/btnVibrate"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:background="@color/colorPrimary"
+        android:text="Vibrate Mode"
+        android:textColor="@color/colorWhite" />
+</LinearLayout>
